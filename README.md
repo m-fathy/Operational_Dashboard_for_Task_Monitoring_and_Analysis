@@ -2,8 +2,7 @@
  The Operational Dashboard for Task Monitoring and Analysis project aims to provide a comprehensive solution for tracking, monitoring, and analyzing tasks within an organization. Leveraging the capabilities of both Tableau and Power BI
 Overview
 The Operational Dashboard for Task Monitoring and Analysis project aims to provide a comprehensive solution for tracking, monitoring, and analyzing tasks within an organization. Leveraging the capabilities of both Tableau and Power BI, this integrated dashboard will empower stakeholders with real-time insights, helping them make informed decisions, optimize task execution, and ensure operational efficiency.
-![Dashboard2](https://github.com/m-fathy/Operational_Dashboard_for_Task_Monitoring_and_Analysis/assets/63368183/d1751ba2-08ef-4a49-874b-5be89df7834e)
-![Dashboard1](https://github.com/m-fathy/Operational_Dashboard_for_Task_Monitoring_and_Analysis/assets/63368183/ea4ba386-6761-4f90-ba7b-79f40e2b48f6)
+
 
 Key Project Details
 Dashboard Features:
